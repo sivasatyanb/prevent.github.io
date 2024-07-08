@@ -78661,14 +78661,14 @@ q=A.br(q,j,t.w).w
 o=k.w[a]
 n=B.c.aQ(o)
 l=p[a]?j:new A.ad2(k,a)
-B.b.R(h,A.b([B.PK,A.iQ(A.arg(99,""+n+"%",100,1,l,o),j,q.a.a*0.75)],m))}h.push(B.cV)
+B.b.R(h,A.b([B.PK,A.iQ(A.arg(99,""+n+"%",100,1,l,o),j,q.a.a*0.5)],m))}h.push(B.cV)
 h.push(B.PT)
 q=k.c
 q.toString
 q=A.br(q,j,t.w).w
 o=k.x[a]
 n=B.h.k(B.c.aQ(o))
-h.push(A.iQ(A.arg(10,n,10,0,p[a]?j:new A.ad3(k,a),o),j,q.a.a*0.75))
+h.push(A.iQ(A.arg(10,n,10,0,p[a]?j:new A.ad3(k,a),o),j,q.a.a*0.5))
 q=p[a]
 h.push(A.he(A.b([B.PS,new A.v5(q,r[a]!=null?new A.ad4(k,a):j,j)],m),B.aj,B.b7,B.aB))
 h.push(B.cV)
