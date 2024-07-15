@@ -78587,7 +78587,7 @@ A.a3D.prototype={
 YT(a){$.e0().n(0,this,a)}}
 A.HY.prototype={
 M(a){var s=A.a8U(null,!0)
-return A.alq(!1,A.aqY(null,A.he(A.b([B.Ab,B.bU,B.A8,B.bU,B.Aa,B.cV,A.akZ(B.If,new A.a2P(a))],t.F),B.aj,B.dO,B.aB)),s)}}
+return A.alq(!1,A.aqY(null,A.he(A.b([B.Ab,B.bU,B.A8,B.bU,B.A9,B.cV,A.akZ(B.If,new A.a2P(a))],t.F),B.aj,B.dO,B.aB)),s)}}
 A.a2P.prototype={
 $0(){var s=A.alr(new A.a2O(),null,t.z),r=A.nP(this.a,!1)
 s=A.ams(s,B.ki,!1,null)
@@ -78636,7 +78636,7 @@ M(a){var s,r=this,q=null,p=r.y
 p=new A.aX(p,new A.ady(),A.a8(p).j("aX<1>"))
 p=p.gt(p)
 s=A.iV("Record "+(r.e+1)+" of 30",q,q,q,B.xO,q,q)
-return A.aqY(new A.uJ(B.PU,B.GZ,!0,new A.Qn(q,q,1/0,56),q),A.he(A.b([new A.cr(B.aP,new A.wS(10,B.yB,p/30,q,q,q,q,q,q),q),B.bU,s,new A.Gt(1,B.m4,new A.xF(r.d,new A.adz(r),new A.a7b(new A.adA(r),30,q),q),q)],t.F),B.aj,B.b7,B.aB))},
+return A.aqY(new A.uJ(B.PV,B.GZ,!0,new A.Qn(q,q,1/0,56),q),A.he(A.b([new A.cr(B.aP,new A.wS(10,B.yB,p/30,q,q,q,q,q,q),q),B.bU,s,new A.Gt(1,B.m4,new A.xF(r.d,new A.adz(r),new A.a7b(new A.adA(r),30,q),q),q)],t.F),B.aj,B.b7,B.aB))},
 ZS(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=k.z[a],h=J.by(i),g=J.ut(h.gbw(i))
 B.b.fj(g,new A.acX())
 s=A.K2()
@@ -78654,7 +78654,7 @@ n=t.y
 m=t.F
 o=A.he(A.b([A.oa(q,o,!0,n),B.PG],m),B.aj,B.b7,B.aB)
 q=r[a]
-h=A.b([h,B.cV,B.PP,B.bU,A.yu(A.b([o,B.cf,A.he(A.b([A.oa(q,p[a]?j:new A.ad1(k,a),!1,n),B.PI],m),B.aj,B.b7,B.aB)],m),B.aj,B.dO,B.aB),B.bU],m)
+h=A.b([h,B.cV,B.PQ,B.bU,A.yu(A.b([o,B.cf,A.he(A.b([A.oa(q,p[a]?j:new A.ad1(k,a),!1,n),B.PH],m),B.aj,B.b7,B.aB)],m),B.aj,B.dO,B.aB),B.bU],m)
 if(r[a]===!0){q=k.c
 q.toString
 q=A.br(q,j,t.w).w
@@ -78662,7 +78662,7 @@ o=k.w[a]
 n=B.c.aQ(o)
 l=p[a]?j:new A.ad2(k,a)
 B.b.R(h,A.b([B.PK,A.iQ(A.arg(99,""+n+"%",100,1,l,o),j,q.a.a*0.5)],m))}h.push(B.cV)
-h.push(B.PT)
+h.push(B.PU)
 q=k.c
 q.toString
 q=A.br(q,j,t.w).w
@@ -78670,11 +78670,11 @@ o=k.x[a]
 n=B.h.k(B.c.aQ(o))
 h.push(A.iQ(A.arg(10,n,10,0,p[a]?j:new A.ad3(k,a),o),j,q.a.a*0.5))
 q=p[a]
-h.push(A.he(A.b([B.PS,new A.v5(q,r[a]!=null?new A.ad4(k,a):j,j)],m),B.aj,B.b7,B.aB))
+h.push(A.he(A.b([B.PT,new A.v5(q,r[a]!=null?new A.ad4(k,a):j,j)],m),B.aj,B.b7,B.aB))
 h.push(B.cV)
 r=A.b([B.cf,A.he(A.b([A.a0R(j,B.D4,k.e>0?new A.ad5(k):j,j,j),B.PN],m),B.aj,B.b7,B.aB)],m)
 if(B.b.Ee(p,new A.ad6()))r.push(A.akZ(B.Ig,new A.ad7(k)))
-r.push(A.he(A.b([A.a0R(j,B.D6,k.e<29?new A.ad_(k):j,j,j),B.PV],m),B.aj,B.b7,B.aB))
+r.push(A.he(A.b([A.a0R(j,B.D6,k.e<29?new A.ad_(k):j,j,j),B.PW],m),B.aj,B.b7,B.aB))
 r.push(B.cf)
 h.push(A.yu(r,B.aj,B.GB,B.aB))
 return new A.cr(B.Cl,A.ar0(new A.Ki(s,A.he(h,B.aj,B.dO,B.aB),j),s,!0),j)}}
@@ -78724,10 +78724,10 @@ return A.W($async$$0,r)},
 $S:27}
 A.adt.prototype={
 $2(a,b){var s,r=this,q=null,p=r.d,o=A.arv(r.c,B.D9,new A.adh(b,p)),n=A.arv(r.e,B.D8,new A.adi(b,p)),m=r.b,l=m.as,k=t.N,j=t.F
-l=A.yu(A.b([A.oa(l,new A.adj(m,b,p),"VVH",k),B.PQ,B.cf,A.oa(l,new A.adk(m,b,p),"KIMS",k),B.PZ,B.cf,A.oa(l,new A.adl(m,b,p),"Other",k),B.xP],j),B.aj,B.dO,B.aB)
+l=A.yu(A.b([A.oa(l,new A.adj(m,b,p),"VVH",k),B.PR,B.cf,A.oa(l,new A.adk(m,b,p),"KIMS",k),B.PZ,B.cf,A.oa(l,new A.adl(m,b,p),"Other",k),B.xP],j),B.aj,B.dO,B.aB)
 s=m.at
 k=A.yu(A.b([A.oa(s,new A.adm(m,b,p),"OBG",k),B.PJ,B.cf,A.oa(s,new A.adn(m,b,p),"Pediatrics",k),B.PL,B.cf,A.oa(s,new A.ado(m,b,p),"Other",k),B.xP],j),B.aj,B.dO,B.aB)
-p=A.am0(B.PR,new A.adp(a),q)
+p=A.am0(B.PS,new A.adp(a),q)
 return new A.pR(new A.cr(B.aP,A.he(A.b([B.PO,B.cV,o,B.bU,n,B.bU,B.Q0,l,B.bU,B.PX,k,B.cV,A.yu(A.b([p,A.akZ(B.xQ,r.a.a?new A.adq(r.f,a):q)],j),B.aj,B.GA,B.aB)],j),B.aj,B.b7,B.fo),q),q)},
 $S:464}
 A.adh.prototype={
@@ -81809,10 +81809,10 @@ B.A2=new A.Tr()
 B.A3=new A.W9(1,"viewport")
 B.A7=new A.v4(null,null,null,null,null,null,null)
 B.bo=new A.l(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PH=new A.c4("You are about to participate in a study. It will take around 5-10 minutes.",null,B.bo,null,null,null,null,null,null)
-B.A8=new A.kT(B.N,null,null,B.PH,null)
+B.PI=new A.c4("You are about to participate in a study. It will take around 45-60 minutes.",null,B.bo,null,null,null,null,null,null)
+B.A8=new A.kT(B.N,null,null,B.PI,null)
 B.Q_=new A.c4("Please do not close or refresh this page until you have completed the study.",null,B.bo,null,null,null,null,null,null)
-B.Aa=new A.kT(B.N,null,null,B.Q_,null)
+B.A9=new A.kT(B.N,null,null,B.Q_,null)
 B.bL=new A.fS(6)
 B.Om=new A.l(!0,null,null,null,null,null,24,B.bL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.PY=new A.c4("Welcome!",null,B.Om,null,null,null,null,null,null)
@@ -83512,9 +83512,9 @@ B.Jo=new A.rn(1,"doNotPop")
 B.Jp=new A.rn(2,"bubble")
 B.jo=new A.hC(null,null)
 B.Jq=new A.JY(null,null)
-B.PW=new A.c4("This survey is completed. Thank you for your participation",null,B.bo,null,null,null,null,null,null)
-B.A9=new A.kT(B.N,null,null,B.PW,null)
-B.Jr=new A.ro(null,B.A9,null)
+B.PP=new A.c4("Your responses have been submitted. Thank you for your participation",null,B.bo,null,null,null,null,null,null)
+B.Aa=new A.kT(B.N,null,null,B.PP,null)
+B.Jr=new A.ro(null,B.Aa,null)
 B.cR=new A.ol(0,"idle")
 B.Js=new A.ol(1,"transientCallbacks")
 B.Jt=new A.ol(2,"midFrameMicrotasks")
@@ -84037,7 +84037,7 @@ B.OI=new A.l(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Og=new A.l(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.PF=new A.cN(B.NV,B.Pj,B.P0,B.Ms,B.OT,B.NP,B.Pn,B.MY,B.Nu,B.OM,B.Mj,B.P1,B.OQ,B.OI,B.Og)
 B.PG=new A.c4("Yes",null,null,null,null,null,null,null,null)
-B.PI=new A.c4("No",null,null,null,null,null,null,null,null)
+B.PH=new A.c4("No",null,null,null,null,null,null,null,null)
 B.el=new A.l(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.PJ=new A.c4("OBG",null,B.el,null,null,null,null,null,null)
 B.PK=new A.c4("What is the likelihood of developing HIE?",null,B.bo,null,null,null,null,null,null)
@@ -84045,14 +84045,14 @@ B.PL=new A.c4("Pediatrics",null,B.el,null,null,null,null,null,null)
 B.PM=new A.c4("No data",null,B.xO,null,null,null,null,null,null)
 B.PN=new A.c4("Previous",null,null,null,null,null,null,null,null)
 B.PO=new A.c4("Enter your details below",null,B.bo,null,null,null,null,null,null)
-B.PP=new A.c4("Do you think this baby will develop HIE?",null,B.bo,null,null,null,null,null,null)
-B.PQ=new A.c4("VVH",null,B.el,null,null,null,null,null,null)
-B.PR=new A.c4("Close",null,null,null,null,null,null,null,null)
-B.PS=new A.c4("Done",null,null,null,null,null,null,null,null)
-B.PT=new A.c4("How sure are you of this evaluation? (0 = not sure, 10 = confident)",null,B.bo,null,null,null,null,null,null)
+B.PQ=new A.c4("Do you think this baby will develop HIE?",null,B.bo,null,null,null,null,null,null)
+B.PR=new A.c4("VVH",null,B.el,null,null,null,null,null,null)
+B.PS=new A.c4("Close",null,null,null,null,null,null,null,null)
+B.PT=new A.c4("Done",null,null,null,null,null,null,null,null)
+B.PU=new A.c4("How sure are you of this evaluation? (0 = not sure, 10 = confident)",null,B.bo,null,null,null,null,null,null)
 B.O6=new A.l(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PU=new A.c4("HIE Risk Prediction",null,B.O6,null,null,null,null,null,null)
-B.PV=new A.c4("Next",null,null,null,null,null,null,null,null)
+B.PV=new A.c4("HIE Risk Prediction",null,B.O6,null,null,null,null,null,null)
+B.PW=new A.c4("Next",null,null,null,null,null,null,null,null)
 B.PX=new A.c4("Department:",null,B.bo,null,null,null,null,null,null)
 B.xP=new A.c4("Other",null,B.el,null,null,null,null,null,null)
 B.PZ=new A.c4("KIMS",null,B.el,null,null,null,null,null,null)
